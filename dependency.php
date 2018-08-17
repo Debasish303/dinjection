@@ -10,4 +10,3 @@ echo "<br/>";
 $profile->updateUser();
 echo "<br/>";
 $profile->deleteUser();
-

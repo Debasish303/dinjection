@@ -16,4 +16,3 @@ class UserProfile
         $this->logger->log('User is deleted.');
     }
 }
-

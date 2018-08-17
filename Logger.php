@@ -6,4 +6,3 @@ class Logger
         echo "Logging message: $message";
     }
 }
-
